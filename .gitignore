@@ -1,0 +1,20 @@
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Optional npm cache directory
+.npm
+
+# Runtime data
+node_modules
+yarn.lock
+*.lock
+package-lock.json
+.env
+.tool-versions
+
+### Linux ###
+*~
